@@ -12,7 +12,7 @@ I am young man with many technical skills. I am very motivated to become QA.
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 01.09.2023
+Szkolenie Indywidualne tester manualny 17.08.2023
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
