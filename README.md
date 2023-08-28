@@ -1,6 +1,6 @@
 # Portfolio-VOD
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+I am young man with many technical skills. I am very motivated to become QA.
 ## TOOLS
 * Jira
 * TestLink
@@ -12,7 +12,7 @@ I am young student with many technical skills. I am very motivated to become QA
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 01.09.2023
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
