@@ -26,13 +26,13 @@ Szkolenie Indywidualne tester manualny 17.08.2023
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR VOD.TVP.PL
-* [Test cases](tu link do google drive z plikiem z test case)
+* [Test cases](https://drive.google.com/file/d/1pIJQLidgJw9_cHM65AVKxt4plZjDuUQt/view?usp=sharing)
 ## MY BUGS
 ## MY BUGS FOR 
-* [nazwa buga tu wpisac tylul buga z test linka ](link do buga z google drive)
-* [nazwa buga](link do buga z google drive)
+* [Po wyłączeniu AdBlock reklama nie zostaje wyświetlona](https://docs.google.com/document/d/1G8mY-Zeyf3rxhr-4Kk4V7f0lzr41r-j3/edit?usp=sharing&ouid=105503007853288161936&rtpof=true&sd=true)
+* [Nie poprawne działanie przycisku "X"](https://docs.google.com/document/d/145bVklb_462wGG-lHTywzu1zojefeXxT/edit?usp=sharing&ouid=105503007853288161936&rtpof=true&sd=true)
 
 ## MY REPORT
 ## MY REPORT FOR 
-* [Report PDF](Link do raportu PDF)
-* [Report Excell](Link do raportu Excell)
+* [Report PDF](https://drive.google.com/file/d/1tsgNYusPidGzePlrY0t1Kj21iCiwIIPH/view?usp=sharing)
+* [Report Excell](https://docs.google.com/spreadsheets/d/1BhIbzzYDwBDxxrvfsEsy7WLm8OwZoW7-/edit?usp=sharing&ouid=105503007853288161936&rtpof=true&sd=true)
